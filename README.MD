@@ -11,9 +11,6 @@ This repository is submitted for the assignment to implement and analyze a basic
 - **GitHub:** [dongramiho](https://github.com/dongramiho)
 
 ---
-
-##  Task Execution Details
-
 ### 1. Code Modification
 As per the assignment requirements, I have added a statement to identify the user in the console output.
 - **Added Line:** `console.log("Lee Dong-ho");`
@@ -49,3 +46,4 @@ Routing Logic: Implements dynamic routing that maps requested URLs to specific f
 MIME Type Handling: Uses a switch statement or conditional logic to identify file extensions and set the correct Content-Type header for the browser.
 
 Event Logging: Integrates an EventEmitter to log server activities and errors into text files for monitoring.
+
